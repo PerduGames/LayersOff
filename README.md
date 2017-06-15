@@ -8,8 +8,8 @@ Check the unused layers, you can choose to search for unused tags in the scene (
 Options?
 
 -Search only on scene or project.
-- Create or not a .txt file with the layers.
-- Show or not the standard Unity layers.
+-Create or not a .txt file with the layers.
+-Show or not the standard Unity layers.
 
 How to use?
 
